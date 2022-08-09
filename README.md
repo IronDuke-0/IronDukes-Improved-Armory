@@ -32,6 +32,11 @@ Better Golden Tools Remastered:
 [Bedrock Download](https://www.planetminecraft.com/texture-pack/custom-golden-tools-bedrock/)
 
 
+Old Better Wooden Tools:
+
+_enter here..._
+
+
 **Faithful 32x:**
 
 _coming soon..._
