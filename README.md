@@ -34,4 +34,6 @@ Better Golden Tools Remastered:
 
 **Faithful 32x:**
 
-_coming soon..._
+[Java Download](https://www.planetminecraft.com/texture-pack/better-wooden-tools-faithful-32x-java/)
+
+[Bedrock Download](https://www.planetminecraft.com/texture-pack/better-wooden-tools-faithful-32x-bedrock/)
